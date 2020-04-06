@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\Homeworks3\Homeworks3\bin\Debug\netcoreapp3.1\Homeworks3.exe
+C:\Users\DELL\source\repos\Homeworks3\Homeworks3\bin\Debug\netcoreapp3.1\Homeworks3.deps.json
+C:\Users\DELL\source\repos\Homeworks3\Homeworks3\bin\Debug\netcoreapp3.1\Homeworks3.runtimeconfig.json
+C:\Users\DELL\source\repos\Homeworks3\Homeworks3\bin\Debug\netcoreapp3.1\Homeworks3.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\Homeworks3\Homeworks3\bin\Debug\netcoreapp3.1\Homeworks3.dll
+C:\Users\DELL\source\repos\Homeworks3\Homeworks3\bin\Debug\netcoreapp3.1\Homeworks3.pdb
+C:\Users\DELL\source\repos\Homeworks3\Homeworks3\obj\Debug\netcoreapp3.1\Homeworks3.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Homeworks3\Homeworks3\obj\Debug\netcoreapp3.1\Homeworks3.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Homeworks3\Homeworks3\obj\Debug\netcoreapp3.1\Homeworks3.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Homeworks3\Homeworks3\obj\Debug\netcoreapp3.1\Homeworks3.dll
+C:\Users\DELL\source\repos\Homeworks3\Homeworks3\obj\Debug\netcoreapp3.1\Homeworks3.pdb
